@@ -11,29 +11,29 @@
     <meta name="keywords" content="">
     <meta name="author" content="Themesdesign">
 
-    <link rel="shortcut icon" href="/WEB-INF/images/favicon.ico">
+    <link rel="shortcut icon" href="joobsy/images/favicon.ico">
 
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|Rubik:400,500" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="web/WEB-INF/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="joobsy/css/bootstrap.min.css" type="text/css">
 
     <!--Material Icon -->
-    <link rel="stylesheet" type="text/css" href="web/WEB-INF/css/materialdesignicons.min.css">
+    <link rel="stylesheet" type="text/css" href="joobsy/css/materialdesignicons.min.css">
 
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="joobsy/css/fontawesome.css">
 
     <!-- selectize css -->
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/selectize.css">
+    <link rel="stylesheet" type="text/css" href="joobsy/css/selectize.css">
 
     <!--Slider-->
-    <link rel="stylesheet" href="/web/WEB-INF/css/owl.carousel.css">
-    <link rel="stylesheet" href="/web/WEB-INF/css/owl.theme.css">
-    <link rel="stylesheet" href="/web/WEB-INF/css/owl.transitions.css">
+    <link rel="stylesheet" href="joobsy/css/owl.carousel.css" type="text/css">
+    <link rel="stylesheet" href="joobsy/css/owl.theme.css" type="text/css">
+    <link rel="stylesheet" href="joobsy/css/owl.transitions.css" type="text/css">
 
     <!-- Custom  Css -->
-    <link rel="stylesheet" type="text/css" href="web/WEB-INF/css/style.css">
+    <link rel="stylesheet" type="text/css" href="joobsy/css/style.css">
 
 </head>
 
@@ -76,8 +76,8 @@
         <!-- Logo container-->
         <div>
             <a href="index.jsp" class="logo">
-                <img src="/WEB-INF/images/logo-light.png" alt="" class="logo-light" height="28">
-                <img src="/WEB-INF/images/logo-dark.png" alt="" class="logo-dark" height="28">
+                <img src="joobsy/images/logo-light.png" alt="" class="logo-light" height="28">
+                <img src="joobsy/images/logo-dark.png" alt="" class="logo-dark" height="28">
             </a>
         </div>
         <!-- End Logo container-->
@@ -102,7 +102,7 @@
             <ul class="navigation-menu">
 
                 <li class="has-submenu">
-                    <a href="/index.jsp">Home</a>
+                    <a href="index.jsp">Home</a>
                 </li>
 
                 <li class="has-submenu">
@@ -110,16 +110,16 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/WEB-INF/job-list.jsp">Job List</a>
+                            <a href="WEB-INF/job-list.jsp">Job List</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/job-grid.jsp">Job Grid</a>
+                            <a href="WEB-INF/job-grid.jsp">Job Grid</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/job-details.jsp">Job Details</a>
+                            <a href="WEB-INF/job-details.jsp">Job Details</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/job-details-2.jsp">Job Details-2</a>
+                            <a href="WEB-INF/job-details-2.jsp">Job Details-2</a>
                         </li>
 
                     </ul>
@@ -129,13 +129,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/WEB-INF/candidates-listing.jsp">Candidates Listing</a>
+                            <a href="WEB-INF/candidates-listing.jsp">Candidates Listing</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/candidates-profile.jsp">Candidates Profile</a>
+                            <a href="WEB-INF/candidates-profile.jsp">Candidates Profile</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/create-resume.jsp">Create Resume</a>
+                            <a href="WEB-INF/create-resume.jsp">Create Resume</a>
                         </li>
                     </ul>
                 </li>
@@ -144,10 +144,10 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/WEB-INF/employers-list.jsp">Employers List</a>
+                            <a href="WEB-INF/employers-list.jsp">Employers List</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/company-detail.jsp">Company Detail</a>
+                            <a href="WEB-INF/company-detail.jsp">Company Detail</a>
                         </li>
                     </ul>
                 </li>
@@ -156,13 +156,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/WEB-INF/blog-list.jsp">Blog List</a>
+                            <a href="WEB-INF/blog-list.jsp">Blog List</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/blog-details.jsp">Blog Details</a>
+                            <a href="WEB-INF/blog-details.jsp">Blog Details</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/blog-grid.jsp">Blog Grid</a>
+                            <a href="WEB-INF/blog-grid.jsp">Blog Grid</a>
                         </li>
                     </ul>
                 </li>
@@ -172,19 +172,19 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/WEB-INF/about.jsp">About us</a>
+                            <a href="WEB-INF/about.jsp">About us</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/services.jsp">Services</a>
+                            <a href="WEB-INF/services.jsp">Services</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/team.jsp">Team</a>
+                            <a href="WEB-INF/team.jsp">Team</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/faq.jsp">Faqs</a>
+                            <a href="WEB-INF/faq.jsp">Faqs</a>
                         </li>
                         <li>
-                            <a href="/WEB-INF/pricing.jsp">Pricing plans</a>
+                            <a href="WEB-INF/pricing.jsp">Pricing plans</a>
                         </li>
                         <li>
                             <a href="#ModalCenter" class="nav-link" data-toggle="modal" data-target="#ModalCenter">Log in</a>
@@ -196,9 +196,9 @@
                 </li>
 
                 <li class="has-submenu">
-                    <a href="/WEB-INF/contact.jsp">contact</a>
+                    <a href="WEB-INF/contact.jsp">contact</a>
                 </li>
-                <a href="/WEB-INF/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
+                <a href="WEB-INF/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
 
             </ul>
             <!-- End navigation menu-->
@@ -788,7 +788,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -840,7 +840,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -887,7 +887,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -939,7 +939,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1017,7 +1017,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1064,7 +1064,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1116,7 +1116,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1168,7 +1168,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1252,7 +1252,7 @@
                                             <div class="row align-items-center">
                                                 <div class="col-md-2">
                                                     <div class="mo-mb-2">
-                                                        <img src="/WEB-INF/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
+                                                        <img src="joobsy/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-3">
@@ -1304,7 +1304,7 @@
                                             <div class="row align-items-center">
                                                 <div class="col-md-2">
                                                     <div class="mo-mb-2">
-                                                        <img src="/WEB-INF/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
+                                                        <img src="joobsy/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-3">
@@ -1351,7 +1351,7 @@
                                             <div class="row align-items-center">
                                                 <div class="col-md-2">
                                                     <div class="mo-mb-2">
-                                                        <img src="/WEB-INF/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
+                                                        <img src="joobsy/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-3">
@@ -1403,7 +1403,7 @@
                                             <div class="row align-items-center">
                                                 <div class="col-md-2">
                                                     <div class="mo-mb-2">
-                                                        <img src="/WEB-INF/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
+                                                        <img src="joobsy/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
                                                     </div>
                                                 </div>
                                                 <div class="col-md-3">
@@ -1486,7 +1486,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1533,7 +1533,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1585,7 +1585,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1637,7 +1637,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-md-2">
                                                 <div class="mo-mb-2">
-                                                    <img src="/WEB-INF/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
+                                                    <img src="joobsy/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
@@ -1741,7 +1741,7 @@
                 <div class="col-lg-4">
                     <div class="how-it-work-box bg-light p-4 mt-4 text-center">
                         <div class="how-it-work-img mb-4">
-                            <img src="/WEB-INF/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
+                            <img src="joobsy/images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
                             <p>1</p>
                         </div>
                         <div>
@@ -1754,7 +1754,7 @@
                 <div class="col-lg-4">
                     <div class="how-it-work-box bg-light p-4 mt-4 text-center">
                         <div class="how-it-work-img mb-4">
-                            <img src="/WEB-INF/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
+                            <img src="joobsy/images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
                             <p>2</p>
                         </div>
                         <div>
@@ -1767,7 +1767,7 @@
                 <div class="col-lg-4">
                     <div class="how-it-work-box bg-light p-4 mt-4 text-center">
                         <div class="how-it-work-img mb-4">
-                            <img src="/WEB-INF/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
+                            <img src="joobsy/images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
                             <p>3</p>
                         </div>
                         <div>
@@ -1861,7 +1861,7 @@
                         <p class="text-muted mb-5">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consecteturqui adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam</p>
                         <div class="clearfix">
                             <div class="testi-img float-left mr-3">
-                                <img src="/WEB-INF/images/testi/img-1.png" alt="" class="rounded-circle">
+                                <img src="joobsy/images/testi/img-1.png" alt="" class="rounded-circle">
                             </div>
                             <h5 class="f-18 pt-1">Kevin Stewart</h5>
                             <p class="text-muted mb-0">Web Designer at xyz Company</p>
@@ -1875,7 +1875,7 @@
                         <p class="text-muted mb-5">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
                         <div class="clearfix">
                             <div class="testi-img float-left mr-3">
-                                <img src="/WEB-INF/images/testi/img-2.png" alt="" class="rounded-circle">
+                                <img src="joobsy/images/testi/img-2.png" alt="" class="rounded-circle">
                             </div>
                             <h5 class="f-18 pt-1">Charles Garrett</h5>
                             <p class="text-muted mb-0">Marketing manager at abc Company</p>
@@ -1889,7 +1889,7 @@
                         <p class="text-muted mb-5">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consecteturqui adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam</p>
                         <div class="clearfix">
                             <div class="testi-img float-left mr-3">
-                                <img src="/WEB-INF/images/testi/img-3.png" alt="" class="rounded-circle">
+                                <img src="joobsy/images/testi/img-3.png" alt="" class="rounded-circle">
                             </div>
                             <h5 class="f-18 pt-1">Perry Martinez</h5>
                             <p class="text-muted mb-0">Marketing manager at abc Company</p>
@@ -1915,22 +1915,22 @@
         <div class="row align-items-center">
             <div class="col-md-3">
                 <div class="client-images">
-                    <img src="/WEB-INF/images/clients/1.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                    <img src="joobsy/images/clients/1.png" alt="logo-img" class="mx-auto img-fluid d-block">
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="client-images">
-                    <img src="/WEB-INF/images/clients/2.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                    <img src="joobsy/images/clients/2.png" alt="logo-img" class="mx-auto img-fluid d-block">
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="client-images">
-                    <img src="/WEB-INF/images/clients/3.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                    <img src="joobsy/images/clients/3.png" alt="logo-img" class="mx-auto img-fluid d-block">
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="client-images">
-                    <img src="/WEB-INF/images/clients/4.png" alt="logo-img" class="mx-auto img-fluid d-block">
+                    <img src="joobsy/images/clients/4.png" alt="logo-img" class="mx-auto img-fluid d-block">
                 </div>
             </div>
         </div>
@@ -1956,7 +1956,7 @@
             <div class="col-lg-4">
                 <div class="blog-box bg-white mt-4">
                     <div class="blog-img">
-                        <img src="/WEB-INF/images/blog/img-1.jpg" alt="" class="img-fluid mx-auto d-block">
+                        <img src="joobsy/images/blog/img-1.jpg" alt="" class="img-fluid mx-auto d-block">
                     </div>
                     <div class="blog-content p-4">
                         <h5 class="f-17 mb-3"><a href="#" class="text-dark">Aenean vulputate eleifend tellus</a></h5>
@@ -1975,7 +1975,7 @@
             <div class="col-lg-4">
                 <div class="blog-box bg-white mt-4">
                     <div class="blog-img">
-                        <img src="/WEB-INF/images/blog/img-2.jpg" alt="" class="img-fluid mx-auto d-block">
+                        <img src="joobsy/images/blog/img-2.jpg" alt="" class="img-fluid mx-auto d-block">
                     </div>
                     <div class="blog-content p-4">
                         <h5 class="f-17 mb-3"><a href="#" class="text-dark">Maecenas tempus tellus eget</a></h5>
@@ -1994,7 +1994,7 @@
             <div class="col-lg-4">
                 <div class="blog-box bg-white mt-4">
                     <div class="blog-img">
-                        <img src="/WEB-INF/images/blog/img-3.jpg" alt="" class="img-fluid mx-auto d-block">
+                        <img src="joobsy/images/blog/img-3.jpg" alt="" class="img-fluid mx-auto d-block">
                     </div>
                     <div class="blog-content p-4">
                         <h5 class="f-17 mb-3"><a href="#" class="text-dark">Vestibulum ante ipsum primis</a></h5>
@@ -2126,20 +2126,20 @@
 <!-- footer-alt end -->
 
 <!-- javascript -->
-<script src="/WEB-INF/js/jquery.min.js"></script>
-<script src="/WEB-INF/js/bootstrap.bundle.min.js"></script>
-<script src="/WEB-INF/js/jquery.easing.min.js"></script>
-<script src="/WEB-INF/js/plugins.js"></script>
+<script src="joobsy/js/jquery.min.js"></script>
+<script src="joobsy/js/bootstrap.bundle.min.js"></script>
+<script src="joobsy/js/jquery.easing.min.js"></script>
+<script src="joobsy/js/plugins.js"></script>
 
 <!-- selectize js -->
-<script src="/WEB-INF/js/selectize.min.js"></script>
-<script src="/WEB-INF/js/jquery.nice-select.min.js"></script>
+<script src="joobsy/js/selectize.min.js"></script>
+<script src="joobsy/js/jquery.nice-select.min.js"></script>
 
-<script src="/WEB-INF/js/owl.carousel.min.js"></script>
-<script src="/WEB-INF/js/counter.int.js"></script>
+<script src="joobsy/js/owl.carousel.min.js"></script>
+<script src="joobsy/js/counter.int.js"></script>
 
-<script src="/WEB-INF/js/app.js"></script>
-<script src="/WEB-INF/js/home.js"></script>
+<script src="joobsy/js/app.js"></script>
+<script src="joobsy/js/home.js"></script>
 
 </body>
 </html>
