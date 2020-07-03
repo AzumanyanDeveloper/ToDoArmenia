@@ -1,6 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
+<br>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +9,6 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Themesdesign">
-
     <link rel="shortcut icon" href="../images/favicon.ico">
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|Rubik:400,500" rel="stylesheet">
