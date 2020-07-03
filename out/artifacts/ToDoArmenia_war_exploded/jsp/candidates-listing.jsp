@@ -17,20 +17,20 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|Rubik:400,500" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="..\css\bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
 
     <!--Material Icon -->
-    <link rel="stylesheet" type="text/css" href="..\css\materialdesignicons.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/materialdesignicons.min.css">
 
-    <link rel="stylesheet" type="text/css" href="..\css\fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="../css/fontawesome.css">
 
-    <link rel="stylesheet" type="text/css" href="..\css\nice-select.css">
+    <link rel="stylesheet" type="text/css" href="../css/nice-select.css">
 
     <!-- selectize css -->
-    <link rel="stylesheet" type="text/css" href="..\css\selectize.css">
+    <link rel="stylesheet" type="text/css" href="../css/selectize.css">
 
     <!-- Custom  Css -->
-    <link rel="stylesheet" type="text/css" href="..\css\style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 
 </head>
 
@@ -72,9 +72,9 @@
     <div class="container">
         <!-- Logo container-->
         <div>
-            <a href="..\jsp\index.jsp" class="logo">
-                <img src="..\images\logo-light.png" alt="" class="logo-light" height="28">
-                <img src="..\images\logo-dark.png" alt="" class="logo-dark" height="28">
+            <a href="../jsp/index.jsp" class="logo">
+                <img src="../images/logo-light.png" alt="" class="logo-light" height="28">
+                <img src="../images/logo-dark.png" alt="" class="logo-dark" height="28">
             </a>
         </div>
         <!-- End Logo container-->
@@ -99,7 +99,7 @@
             <ul class="navigation-menu">
 
                 <li class="has-submenu">
-                    <a href="..\jsp\index.jsp">Home</a>
+                    <a href="../jsp/index.jsp">Home</a>
                 </li>
 
                 <li class="has-submenu">
@@ -107,16 +107,16 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\job-list.jsp">Job List</a>
+                            <a href="../jsp/job-list.jsp">Job List</a>
                         </li>
                         <li>
-                            <a href="..\jsp\job-grid.jsp">Job Grid</a>
+                            <a href="../jsp/job-grid.jsp">Job Grid</a>
                         </li>
                         <li>
-                            <a href="..\jsp\job-details.jsp">Job Details</a>
+                            <a href="../jsp/job-details.jsp">Job Details</a>
                         </li>
                         <li>
-                            <a href="..\jsp\job-details-2.jsp">Job Details-2</a>
+                            <a href="../jsp/job-details-2.jsp">Job Details-2</a>
                         </li>
 
                     </ul>
@@ -126,13 +126,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\candidates-listing.jsp">Candidates Listing</a>
+                            <a href="../jsp/candidates-listing.jsp">Candidates Listing</a>
                         </li>
                         <li>
-                            <a href="..\jsp\candidates-profile.jsp">Candidates Profile</a>
+                            <a href="../jsp/candidates-profile.jsp">Candidates Profile</a>
                         </li>
                         <li>
-                            <a href="..\jsp\create-resume.jsp">Create Resume</a>
+                            <a href="../jsp/create-resume.jsp">Create Resume</a>
                         </li>
                     </ul>
                 </li>
@@ -141,10 +141,10 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\employers-list.jsp">Employers List</a>
+                            <a href="../jsp/employers-list.jsp">Employers List</a>
                         </li>
                         <li>
-                            <a href="..\jsp\company-detail.jsp">Company Detail</a>
+                            <a href="../jsp/company-detail.jsp">Company Detail</a>
                         </li>
                     </ul>
                 </li>
@@ -153,13 +153,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\blog-list.jsp">Blog List</a>
+                            <a href="../jsp/blog-list.jsp">Blog List</a>
                         </li>
                         <li>
-                            <a href="..\jsp\blog-details.jsp">Blog Details</a>
+                            <a href="../jsp/blog-details.jsp">Blog Details</a>
                         </li>
                         <li>
-                            <a href="..\jsp\blog-grid.jsp">Blog Grid</a>
+                            <a href="../jsp/blog-grid.jsp">Blog Grid</a>
                         </li>
                     </ul>
                 </li>
@@ -169,19 +169,19 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\about.jsp">About us</a>
+                            <a href="../jsp/about.jsp">About us</a>
                         </li>
                         <li>
-                            <a href="..\jsp\services.jsp">Services</a>
+                            <a href="../jsp/services.jsp">Services</a>
                         </li>
                         <li>
-                            <a href="..\jsp\team.jsp">Team</a>
+                            <a href="../jsp/team.jsp">Team</a>
                         </li>
                         <li>
-                            <a href="..\jsp\faq.jsp">Faqs</a>
+                            <a href="../jsp/faq.jsp">Faqs</a>
                         </li>
                         <li>
-                            <a href="..\jsp\pricing.jsp">Pricing plans</a>
+                            <a href="../jsp/pricing.jsp">Pricing plans</a>
                         </li>
                         <li>
                             <a href="#ModalCenter" class="nav-link" data-toggle="modal" data-target="#ModalCenter">Log in</a>
@@ -193,9 +193,9 @@
                 </li>
 
                 <li class="has-submenu">
-                    <a href="..\jsp\contact.jsp">contact</a>
+                    <a href="../jsp/contact.jsp">contact</a>
                 </li>
-                <a href="..\jsp\post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
+                <a href="../jsp/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
 
             </ul>
             <!-- End navigation menu-->
@@ -990,7 +990,7 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="candidates-img float-left mr-4">
-                                    <img src="..\images\candidates\img-1.jpg" alt="" class="img-fluid d-block rounded">
+                                    <img src="../images/candidates/img-1.jpg" alt="" class="img-fluid d-block rounded">
                                 </div>
                                 <div class="candidates-list-desc job-single-meta  pt-2">
                                     <h5 class="mb-2 f-19"><a href="#" class="text-dark">Mary Mainor</a></h5>
@@ -1037,7 +1037,7 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="candidates-img float-left mr-4">
-                                    <img src="..\images\candidates\img-2.jpg" alt="" class="img-fluid d-block rounded">
+                                    <img src="../images/candidates/img-2.jpg" alt="" class="img-fluid d-block rounded">
                                 </div>
                                 <div class="candidates-list-desc job-single-meta  pt-2">
                                     <h5 class="mb-2 f-19"><a href="#" class="text-dark">Jack Hallock</a></h5>
@@ -1084,7 +1084,7 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="candidates-img float-left mr-4">
-                                    <img src="..\images\candidates\img-3.jpg" alt="" class="img-fluid d-block rounded">
+                                    <img src="../images/candidates/img-3.jpg" alt="" class="img-fluid d-block rounded">
                                 </div>
                                 <div class="candidates-list-desc job-single-meta  pt-2">
                                     <h5 class="mb-2 f-19"><a href="#" class="text-dark">Rodney Wells</a></h5>
@@ -1131,7 +1131,7 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="candidates-img float-left mr-4">
-                                    <img src="..\images\candidates\img-4.jpg" alt="" class="img-fluid d-block rounded">
+                                    <img src="../images/candidates/img-4.jpg" alt="" class="img-fluid d-block rounded">
                                 </div>
                                 <div class="candidates-list-desc job-single-meta  pt-2">
                                     <h5 class="mb-2 f-19"><a href="#" class="text-dark">Ruth Miles</a></h5>
@@ -1178,7 +1178,7 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="candidates-img float-left mr-4">
-                                    <img src="..\images\candidates\img-5.jpg" alt="" class="img-fluid d-block rounded">
+                                    <img src="../images/candidates/img-5.jpg" alt="" class="img-fluid d-block rounded">
                                 </div>
                                 <div class="candidates-list-desc job-single-meta  pt-2">
                                     <h5 class="mb-2 f-19"><a href="#" class="text-dark">Frank Tower</a></h5>
@@ -1225,7 +1225,7 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="candidates-img float-left mr-4">
-                                    <img src="..\images\candidates\img-6.jpg" alt="" class="img-fluid d-block rounded">
+                                    <img src="../images/candidates/img-6.jpg" alt="" class="img-fluid d-block rounded">
                                 </div>
                                 <div class="candidates-list-desc job-single-meta  pt-2">
                                     <h5 class="mb-2 f-19"><a href="#" class="text-dark">Jerry Real</a></h5>
@@ -1408,16 +1408,16 @@
 <!-- footer-alt end -->
 
 <!-- javascript -->
-<script src="..\js\jquery.min.js"></script>
-<script src="..\js\bootstrap.bundle.min.js"></script>
-<script src="..\js\jquery.easing.min.js"></script>
-<script src="..\js\plugins.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/jquery.easing.min.js"></script>
+<script src="../js/plugins.js"></script>
 
 <!-- selectize js -->
-<script src="..\js\selectize.min.js"></script>
+<script src="../js/selectize.min.js"></script>
 
-<script src="..\js\jquery.nice-select.min.js"></script>
-<script src="..\js\app.js"></script>
+<script src="../js/jquery.nice-select.min.js"></script>
+<script src="../js/app.js"></script>
 
 </body>
 </html>
