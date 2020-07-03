@@ -11,26 +11,26 @@
     <meta name="keywords" content="">
     <meta name="author" content="Themesdesign">
 
-    <link rel="shortcut icon" href="/web/WEB-INF/images/favicon.ico">
+    <link rel="shortcut icon" href="../images/favicon.ico">
 
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Rubik:300,400,500" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="/web/WEB-INF/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
 
     <!--Material Icon -->
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/materialdesignicons.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/materialdesignicons.min.css">
 
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="../css/fontawesome.css">
 
     <!-- selectize css -->
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/selectize.css">
+    <link rel="stylesheet" type="text/css" href="../css/selectize.css">
 
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/nice-select.css">
+    <link rel="stylesheet" type="text/css" href="../css/nice-select.css">
 
     <!-- Custom  Css -->
-    <link rel="stylesheet" type="text/css" href="/web/WEB-INF/css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 
 </head>
 
@@ -73,8 +73,8 @@
         <!-- Logo container-->
         <div>
             <a href="index.html" class="logo">
-                <img src="/web/WEB-INF/images/logo-light.png" alt="" class="logo-light" height="28">
-                <img src="/web/WEB-INF/images/logo-dark.png" alt="" class="logo-dark" height="28">
+                <img src="../images/logo-light.png" alt="" class="logo-light" height="28">
+                <img src="../images/logo-dark.png" alt="" class="logo-dark" height="28">
             </a>
         </div>
         <!-- End Logo container-->
@@ -99,7 +99,7 @@
             <ul class="navigation-menu">
 
                 <li class="has-submenu">
-                    <a href="/web/WEB-INF/index.jsp">Home</a>
+                    <a href="../jsp/index.jsp">Home</a>
                 </li>
 
                 <li class="has-submenu">
@@ -107,16 +107,16 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/web/WEB-INF/job-list.jsp">Job List</a>
+                            <a href="../jsp/job-list.jsp">Job List</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/job-grid.jsp">Job Grid</a>
+                            <a href="../jsp/job-grid.jsp">Job Grid</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/job-details.jsp">Job Details</a>
+                            <a href="../jsp/job-details.jsp">Job Details</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/job-details-2.jsp">Job Details-2</a>
+                            <a href="../jsp/job-details-2.jsp">Job Details-2</a>
                         </li>
 
                     </ul>
@@ -126,13 +126,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/web/WEB-INF/candidates-listing.jsp">Candidates Listing</a>
+                            <a href="../jsp/candidates-listing.jsp">Candidates Listing</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/candidates-profile.jsp">Candidates Profile</a>
+                            <a href="../jsp/candidates-profile.jsp">Candidates Profile</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/create-resume.jsp">Create Resume</a>
+                            <a href="../jsp/create-resume.jsp">Create Resume</a>
                         </li>
                     </ul>
                 </li>
@@ -141,10 +141,10 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/web/WEB-INF/employers-list.jsp">Employers List</a>
+                            <a href="../jsp/employers-list.jsp">Employers List</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/company-detail.jsp">Company Detail</a>
+                            <a href="../jsp/company-detail.jsp">Company Detail</a>
                         </li>
                     </ul>
                 </li>
@@ -153,13 +153,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/web/WEB-INF/blog-list.jsp">Blog List</a>
+                            <a href="../jsp/blog-list.jsp">Blog List</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/blog-details.jsp">Blog Details</a>
+                            <a href="../jsp/blog-details.jsp">Blog Details</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/blog-grid.jsp">Blog Grid</a>
+                            <a href="../jsp/blog-grid.jsp">Blog Grid</a>
                         </li>
                     </ul>
                 </li>
@@ -169,19 +169,19 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="/web/WEB-INF/about.jsp">About us</a>
+                            <a href="../jsp/about.jsp">About us</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/services.jsp">Services</a>
+                            <a href="../jsp/services.jsp">Services</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/team.jsp">Team</a>
+                            <a href="../jsp/team.jsp">Team</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/faq.jsp">Faqs</a>
+                            <a href="../jsp/faq.jsp">Faqs</a>
                         </li>
                         <li>
-                            <a href="/web/WEB-INF/pricing.jsp">Pricing plans</a>
+                            <a href="../jsp/pricing.jsp">Pricing plans</a>
                         </li>
                         <li>
                             <a href="#ModalCenter" class="nav-link" data-toggle="modal" data-target="#ModalCenter">Log in</a>
@@ -193,9 +193,9 @@
                 </li>
 
                 <li class="has-submenu">
-                    <a href="/web/WEB-INF/contact.jsp">contact</a>
+                    <a href="../jsp/contact.jsp">contact</a>
                 </li>
-                <a href="/web/WEB-INF/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
+                <a href="../jsp/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
 
             </ul>
             <!-- End navigation menu-->
@@ -717,17 +717,17 @@
 <!-- footer-alt end -->
 
 <!-- javascript -->
-<script src="/web/WEB-INF/js/jquery.min.js"></script>
-<script src="/web/WEB-INF/js/bootstrap.bundle.min.js"></script>
-<script src="/web/WEB-INF/js/jquery.easing.min.js"></script>
-<script src="/web/WEB-INF/js/plugins.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/jquery.easing.min.js"></script>
+<script src="../js/plugins.js"></script>
 
 <!-- selectize js -->
-<script src="/web/WEB-INF/js/selectize.min.js"></script>
+<script src="../js/selectize.min.js"></script>
 
-<script src="/web/WEB-INF/js/jquery.nice-select.min.js"></script>
+<script src="../js/jquery.nice-select.min.js"></script>
 
-<script src="/web/WEB-INF/js/app.js"></script>
+<script src="../js/app.js"></script>
 
 </body>
 </html>
