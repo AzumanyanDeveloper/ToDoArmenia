@@ -11,26 +11,26 @@
     <meta name="keywords" content="">
     <meta name="author" content="Themesdesign">
 
-    <link rel="shortcut icon" href="images\favicon.ico">
+    <link rel="shortcut icon" href="..\images\favicon.ico">
 
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Rubik:300,400,500" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="css\bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
 
     <!--Material Icon -->
-    <link rel="stylesheet" type="text/css" href="css\materialdesignicons.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/materialdesignicons.min.css">
 
-    <link rel="stylesheet" type="text/css" href="css\fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="../css/fontawesome.css">
 
     <!-- selectize css -->
-    <link rel="stylesheet" type="text/css" href="css\selectize.css">
+    <link rel="stylesheet" type="text/css" href="../css/selectize.css">
 
-    <link rel="stylesheet" type="text/css" href="css\nice-select.css">
+    <link rel="stylesheet" type="text/css" href="../css/nice-select.css">
 
     <!-- Custom  Css -->
-    <link rel="stylesheet" type="text/css" href="css\style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 
 </head>
 
@@ -72,9 +72,9 @@
     <div class="container">
         <!-- Logo container-->
         <div>
-            <a href="index.html" class="logo">
-                <img src="images\logo-light.png" alt="" class="logo-light" height="28">
-                <img src="images\logo-dark.png" alt="" class="logo-dark" height="28">
+            <a href="../jsp/index.jsp" class="logo">
+                <img src="../images/logo-light.png" alt="" class="logo-light" height="28">
+                <img src="../images/logo-dark.png" alt="" class="logo-dark" height="28">
             </a>
         </div>
         <!-- End Logo container-->
@@ -99,7 +99,7 @@
             <ul class="navigation-menu">
 
                 <li class="has-submenu">
-                    <a href="index.html">Home</a>
+                    <a href="../jsp/index.jsp">Home</a>
                 </li>
 
                 <li class="has-submenu">
@@ -107,16 +107,16 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="job-list.html">Job List</a>
+                            <a href="../jsp/job-list.jsp">Job List</a>
                         </li>
                         <li>
-                            <a href="job-grid.html">Job Grid</a>
+                            <a href="../jsp/job-grid.jsp">Job Grid</a>
                         </li>
                         <li>
-                            <a href="job-details.html">Job Details</a>
+                            <a href="../jsp/job-details.jsp">Job Details</a>
                         </li>
                         <li>
-                            <a href="job-details-2.html">Job Details-2</a>
+                            <a href="../jsp/job-details-2.jsp">Job Details-2</a>
                         </li>
 
                     </ul>
@@ -126,13 +126,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="candidates-listing.html">Candidates Listing</a>
+                            <a href="../jsp/candidates-listing.jsp">Candidates Listing</a>
                         </li>
                         <li>
-                            <a href="candidates-profile.html">Candidates Profile</a>
+                            <a href="../jsp/candidates-profile.jsp">Candidates Profile</a>
                         </li>
                         <li>
-                            <a href="create-resume.html">Create Resume</a>
+                            <a href="../jsp/create-resume.jsp">Create Resume</a>
                         </li>
                     </ul>
                 </li>
@@ -141,10 +141,10 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="employers-list.html">Employers List</a>
+                            <a href="../jsp/employers-list.jsp">Employers List</a>
                         </li>
                         <li>
-                            <a href="company-detail.html">Company Detail</a>
+                            <a href="../jsp/company-detail.jsp">Company Detail</a>
                         </li>
                     </ul>
                 </li>
@@ -153,13 +153,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="blog-list.html">Blog List</a>
+                            <a href="../jsp/blog-list.jsp">Blog List</a>
                         </li>
                         <li>
-                            <a href="blog-details.html">Blog Details</a>
+                            <a href="../jsp/blog-details.jsp">Blog Details</a>
                         </li>
                         <li>
-                            <a href="blog-grid.html">Blog Grid</a>
+                            <a href="../jsp/blog-grid.jsp">Blog Grid</a>
                         </li>
                     </ul>
                 </li>
@@ -169,19 +169,19 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="about.html">About us</a>
+                            <a href="../jsp/about.jsp">About us</a>
                         </li>
                         <li>
-                            <a href="services.html">Services</a>
+                            <a href="../jsp/services.jsp">Services</a>
                         </li>
                         <li>
-                            <a href="team.html">Team</a>
+                            <a href="../jsp/team.jsp">Team</a>
                         </li>
                         <li>
-                            <a href="faq.html">Faqs</a>
+                            <a href="../jsp/faq.jsp">Faqs</a>
                         </li>
                         <li>
-                            <a href="pricing.html">Pricing plans</a>
+                            <a href="../jsp/pricing.jsp">Pricing plans</a>
                         </li>
                         <li>
                             <a href="#ModalCenter" class="nav-link" data-toggle="modal" data-target="#ModalCenter">Log in</a>
@@ -193,9 +193,9 @@
                 </li>
 
                 <li class="has-submenu">
-                    <a href="contact.html">contact</a>
+                    <a href="../jsp/contact.jsp">contact</a>
                 </li>
-                <a href="post-a-job.html" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
+                <a href="../jsp/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
 
             </ul>
             <!-- End navigation menu-->
@@ -443,7 +443,7 @@
                     <div class=" p-3">
                         <div class="media">
                             <div class="blog-list-img mr-2">
-                                <img src="images\employers\img-1.jpg" alt="" class="img-fluid mx-auto d-block rounded">
+                                <img src="../images/employers/img-1.jpg" alt="" class="img-fluid mx-auto d-block rounded">
                             </div>
                             <div class="media-body ml-2">
                                 <p class="mb-0 text-muted mb-0 f-13"><a href="" class="text-dark">In enime justo rhoncuse ut imperdiete as vitae justo niti nullam.</a></p>
@@ -463,7 +463,7 @@
 
                         <div class="media">
                             <div class="blog-list-img mr-2">
-                                <img src="images\employers\img-2.jpg" alt="" class="img-fluid mx-auto d-block rounded">
+                                <img src="../images/employers/img-2.jpg" alt="" class="img-fluid mx-auto d-block rounded">
                             </div>
                             <div class="media-body ml-2">
                                 <p class="mb-0 text-muted mb-0 f-13"><a href="" class="text-dark">Integer tincidunte dapibus that Vivamus semper as vulputate.</a></p>
@@ -483,7 +483,7 @@
 
                         <div class="media">
                             <div class="blog-list-img mr-2">
-                                <img src="images\employers\img-3.jpg" alt="" class="img-fluid mx-auto d-block rounded">
+                                <img src="../images/employers/img-3.jpg" alt="" class="img-fluid mx-auto d-block rounded">
                             </div>
                             <div class="media-body ml-2">
                                 <p class="mb-0 text-muted mb-0 f-13"><a href="" class="text-dark">Aliquam lorem dapibus a in viverra quis feugiat metus.</a></p>
@@ -529,7 +529,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-4">
                             <div class="blog-img">
-                                <img src="images\blog-list\img-1.jpg" alt="" class="img-fluid rounded">
+                                <img src="../images/blog-list/img-1.jpg" alt="" class="img-fluid rounded">
                                 <div class="blog-date text-center">
                                     <p class="text-white f-18 mb-0">07</p>
                                     <p class="text-white f-18 mb-0">Nav</p>
@@ -562,7 +562,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-4">
                             <div class="blog-img">
-                                <img src="images\blog-list\img-2.jpg" alt="" class="img-fluid rounded">
+                                <img src="../images/blog-list/img-2.jpg" alt="" class="img-fluid rounded">
                                 <div class="blog-date text-center">
                                     <p class="text-white f-18 mb-0">12</p>
                                     <p class="text-white f-18 mb-0">Jan</p>
@@ -595,7 +595,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-4">
                             <div class="blog-img">
-                                <img src="images\blog-list\img-3.jpg" alt="" class="img-fluid rounded">
+                                <img src="../images/blog-list/img-3.jpg" alt="" class="img-fluid rounded">
                                 <div class="blog-date text-center">
                                     <p class="text-white f-18 mb-0">13</p>
                                     <p class="text-white f-18 mb-0">Fab</p>
@@ -628,7 +628,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-4">
                             <div class="blog-img">
-                                <img src="images\blog-list\img-4.jpg" alt="" class="img-fluid rounded">
+                                <img src="../images/blog-list/img-4.jpg" alt="" class="img-fluid rounded">
                                 <div class="blog-date text-center">
                                     <p class="text-white f-18 mb-0">22</p>
                                     <p class="text-white f-18 mb-0">Mar</p>
@@ -661,7 +661,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-4">
                             <div class="blog-img">
-                                <img src="images\blog-list\img-5.jpg" alt="" class="img-fluid rounded">
+                                <img src="../images/blog-list/img-5.jpg" alt="" class="img-fluid rounded">
                                 <div class="blog-date text-center">
                                     <p class="text-white f-18 mb-0">30</p>
                                     <p class="text-white f-18 mb-0">May</p>
@@ -694,7 +694,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-4">
                             <div class="blog-img">
-                                <img src="images\blog-list\img-6.jpg" alt="" class="img-fluid rounded">
+                                <img src="../images/blog-list/img-6.jpg" alt="" class="img-fluid rounded">
                                 <div class="blog-date text-center">
                                     <p class="text-white f-18 mb-0">05</p>
                                     <p class="text-white f-18 mb-0">Jun</p>
@@ -862,17 +862,17 @@
 <!-- footer-alt end -->
 
 <!-- javascript -->
-<script src="js\jquery.min.js"></script>
-<script src="js\bootstrap.bundle.min.js"></script>
-<script src="js\jquery.easing.min.js"></script>
-<script src="js\plugins.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/jquery.easing.min.js"></script>
+<script src="../js/plugins.js"></script>
 
 <!-- selectize js -->
-<script src="js\selectize.min.js"></script>
+<script src="../js/selectize.min.js"></script>
 
-<script src="js\jquery.nice-select.min.js"></script>
+<script src="../js/jquery.nice-select.min.js"></script>
 
-<script src="js\app.js"></script>
+<script src="../js/app.js"></script>
 
 </body>
 </html>

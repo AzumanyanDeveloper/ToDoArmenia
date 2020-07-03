@@ -2,7 +2,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-
+*//*
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,26 +11,26 @@
     <meta name="keywords" content="">
     <meta name="author" content="Themesdesign">
 
-    <link rel="shortcut icon" href="..\images\favicon.ico">
+    <link rel="shortcut icon" href="../images/favicon.ico">
 
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Rubik:300,400,500" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="..\css\bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
 
     <!--Material Icon -->
-    <link rel="stylesheet" type="text/css" href="..\css\materialdesignicons.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/materialdesignicons.min.css">
 
-    <link rel="stylesheet" type="text/css" href="..\css\fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="../css/fontawesome.css">
 
     <!-- selectize css -->
-    <link rel="stylesheet" type="text/css" href="..\css\selectize.css">
+    <link rel="stylesheet" type="text/css" href="../css/selectize.css">
 
-    <link rel="stylesheet" type="text/css" href="..\css\nice-select.css">
+    <link rel="stylesheet" type="text/css" href="../css/nice-select.css">
 
     <!-- Custom  Css -->
-    <link rel="stylesheet" type="text/css" href="..\css\style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 
 </head>
 
@@ -72,9 +72,9 @@
     <div class="container">
         <!-- Logo container-->
         <div>
-            <a href="..\jsp\index.jsp" class="logo">
-                <img src="..\images\logo-light.png" alt="" class="logo-light" height="28">
-                <img src="..\images\logo-dark.png" alt="" class="logo-dark" height="28">
+            <a href="../jsp/index.jsp" class="logo">
+                <img src="../images/logo-light.png" alt="" class="logo-light" height="28">
+                <img src="../images/logo-dark.png" alt="" class="logo-dark" height="28">
             </a>
         </div>
         <!-- End Logo container-->
@@ -99,7 +99,7 @@
             <ul class="navigation-menu">
 
                 <li class="has-submenu">
-                    <a href="..\jsp\index.jsp">Home</a>
+                    <a href="../jsp/index.jsp">Home</a>
                 </li>
 
                 <li class="has-submenu">
@@ -107,16 +107,16 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\job-list.jsp">Job List</a>
+                            <a href="../jsp/job-list.jsp">Job List</a>
                         </li>
                         <li>
-                            <a href="..\jsp\job-grid.jsp">Job Grid</a>
+                            <a href="../jsp/job-grid.jsp">Job Grid</a>
                         </li>
                         <li>
-                            <a href="..\jsp\job-details.jsp">Job Details</a>
+                            <a href="../jsp/job-details.jsp">Job Details</a>
                         </li>
                         <li>
-                            <a href="..\jsp\job-details-2.jsp">Job Details-2</a>
+                            <a href="../jsp/job-details-2.jsp">Job Details-2</a>
                         </li>
 
                     </ul>
@@ -126,13 +126,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\candidates-listing.jsp">Candidates Listing</a>
+                            <a href="../jsp/candidates-listing.jsp">Candidates Listing</a>
                         </li>
                         <li>
-                            <a href="..\jsp\candidates-profile.jsp">Candidates Profile</a>
+                            <a href="../jsp/candidates-profile.jsp">Candidates Profile</a>
                         </li>
                         <li>
-                            <a href="..\jsp\create-resume.jsp">Create Resume</a>
+                            <a href="../jsp/create-resume.jsp">Create Resume</a>
                         </li>
                     </ul>
                 </li>
@@ -141,10 +141,10 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\employers-list.jsp">Employers List</a>
+                            <a href="../jsp/employers-list.jsp">Employers List</a>
                         </li>
                         <li>
-                            <a href="..\jsp\company-detail.jsp">Company Detail</a>
+                            <a href="../jsp/company-detail.jsp">Company Detail</a>
                         </li>
                     </ul>
                 </li>
@@ -153,13 +153,13 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\blog-list.jsp">Blog List</a>
+                            <a href="../jsp/blog-list.jsp">Blog List</a>
                         </li>
                         <li>
-                            <a href="..\jsp\blog-details.jsp">Blog Details</a>
+                            <a href="../jsp/blog-details.jsp">Blog Details</a>
                         </li>
                         <li>
-                            <a href="..\jsp\blog-grid.jsp">Blog Grid</a>
+                            <a href="../jsp/blog-grid.jsp">Blog Grid</a>
                         </li>
                     </ul>
                 </li>
@@ -169,19 +169,19 @@
                     <span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li>
-                            <a href="..\jsp\about.jsp">About us</a>
+                            <a href="../jsp/about.jsp">About us</a>
                         </li>
                         <li>
-                            <a href="..\jsp\services.jsp">Services</a>
+                            <a href="../jsp/services.jsp">Services</a>
                         </li>
                         <li>
-                            <a href="..\jsp\team.jsp">Team</a>
+                            <a href="../jsp/team.jsp">Team</a>
                         </li>
                         <li>
-                            <a href="..\jsp\faq.jsp">Faqs</a>
+                            <a href="../jsp/faq.jsp">Faqs</a>
                         </li>
                         <li>
-                            <a href="..\jsp\pricing.jsp">Pricing plans</a>
+                            <a href="../jsp/pricing.jsp">Pricing plans</a>
                         </li>
                         <li>
                             <a href="#ModalCenter" class="nav-link" data-toggle="modal" data-target="#ModalCenter">Log in</a>
@@ -193,9 +193,9 @@
                 </li>
 
                 <li class="has-submenu">
-                    <a href="..\jsp\contact.jsp">contact</a>
+                    <a href="../jsp/contact.jsp">contact</a>
                 </li>
-                <a href="..\jsp\post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
+                <a href="../jsp/post-a-job.jsp" class="btn btn-custom btn-sm"><i class="mdi mdi-cloud-upload"></i> Post a Job</a>
 
             </ul>
             <!-- End navigation menu-->
@@ -400,7 +400,7 @@
             <div class="col-lg-9">
                 <div class="job-detail text-center job-single p-3">
                     <div class="job-single-img mb-2">
-                        <img src="..\images\featured-job\img-1.png" alt="" class="img-fluid mx-auto d-block">
+                        <img src="../images/featured-job/img-1.png" alt="" class="img-fluid mx-auto d-block">
                     </div>
                     <h3 class=""><a href="#" class="text-dark">Web Designer</a></h3>
                     <ul class="list-inline mb-0">
@@ -627,7 +627,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="company-logo-img job-single-logo-img">
-                                    <img src="..\images\featured-job\img-6.png" alt="" class="img-fluid mx-auto d-block">
+                                    <img src="../images/featured-job/img-6.png" alt="" class="img-fluid mx-auto d-block">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-md-10">
@@ -671,7 +671,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="company-logo-img job-single-logo-img">
-                                    <img src="..\images\featured-job\img-2.png" alt="" class="img-fluid mx-auto d-block">
+                                    <img src="../images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-md-10">
@@ -715,7 +715,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="company-logo-img job-single-logo-img">
-                                    <img src="..\images\featured-job\img-3.png" alt="" class="img-fluid mx-auto d-block">
+                                    <img src="../images/featured-job/img-3.png" alt="" class="img-fluid mx-auto d-block">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-md-10">
@@ -759,7 +759,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="company-logo-img job-single-logo-img">
-                                    <img src="..\images\featured-job\img-4.png" alt="" class="img-fluid mx-auto d-block">
+                                    <img src="../images/featured-job/img-4.png" alt="" class="img-fluid mx-auto d-block">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-md-10">
@@ -803,7 +803,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-2">
                                 <div class="company-logo-img job-single-logo-img">
-                                    <img src="..\images\featured-job\img-5.png" alt="" class="img-fluid mx-auto d-block">
+                                    <img src="../images/featured-job/img-5.png" alt="" class="img-fluid mx-auto d-block">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-md-10">
@@ -853,7 +853,7 @@
 
             <div class="col-lg-3">
                 <div class="company-brand-logo text-center mt-40">
-                    <img src="..\images\featured-job\img-2.png" alt="" class="img-fluid mx-auto d-block mb-3">
+                    <img src="../images/featured-job/img-2.png" alt="" class="img-fluid mx-auto d-block mb-3">
                     <h5 class="text-muted mb-0"><a href="#" class="text-muted"><i class="mdi mdi-bank mr-1"></i>Themes Code.Pvt.Ltd</a></h5>
                 </div>
 
@@ -1097,17 +1097,17 @@
 <!-- footer-alt end -->
 
 <!-- javascript -->
-<script src="..\js\jquery.min.js"></script>
-<script src="..\js\bootstrap.bundle.min.js"></script>
-<script src="..\js\jquery.easing.min.js"></script>
-<script src="..\js\plugins.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/jquery.easing.min.js"></script>
+<script src="../js/plugins.js"></script>
 
 <!-- selectize js -->
-<script src="..\js\selectize.min.js"></script>
+<script src="../js/selectize.min.js"></script>
 
-<script src="..\js\jquery.nice-select.min.js"></script>
+<script src="../js/jquery.nice-select.min.js"></script>
 
-<script src="..\js\app.js"></script>
+<script src="../js/app.js"></script>
 
 </body>
 </html>
