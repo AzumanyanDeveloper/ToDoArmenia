@@ -191,7 +191,6 @@
                         </li>
                     </ul>
                 </li>
-
                 <li class="has-submenu">
                     <a href="../jsp/contact.jsp">contact</a>
                 </li>
